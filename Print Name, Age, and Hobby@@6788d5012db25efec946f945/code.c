@@ -4,9 +4,9 @@ int main(){
     int b;
     char c[30];
     scanf("%s %d %s",&a,&b,&c);
-    print("Name: %s");
-    print("Age: %d");
-    print("Hobby: %s");
+    printf("Name: %s");
+    printf("Age: %d");
+    printf("Hobby: %s");
     return 0;
     
 }
